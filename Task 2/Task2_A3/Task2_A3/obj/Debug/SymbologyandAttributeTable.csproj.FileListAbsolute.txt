@@ -1,0 +1,96 @@
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\Task2_A3.exe
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\Task2_A3.pdb
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Controls.dll
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Data.dll
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Data.Forms.dll
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Extensions.dll
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Modeling.Forms.dll
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Projections.dll
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Projections.Forms.dll
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Serialization.dll
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Symbology.dll
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Symbology.Forms.dll
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Topology.dll
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Controls.xml
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Data.xml
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Data.Forms.xml
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Extensions.xml
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Modeling.Forms.xml
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Projections.xml
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Projections.Forms.xml
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Serialization.xml
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Symbology.xml
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Symbology.Forms.xml
+E:\Project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Topology.xml
+E:\Project\Task 2\Task2_A3\Task2_A3\obj\Debug\SymbologyandAttributeTable.csproj.AssemblyReference.cache
+E:\Project\Task 2\Task2_A3\Task2_A3\obj\Debug\Task2_A3.Form1.resources
+E:\Project\Task 2\Task2_A3\Task2_A3\obj\Debug\Task2_A3.Properties.Resources.resources
+E:\Project\Task 2\Task2_A3\Task2_A3\obj\Debug\SymbologyandAttributeTable.csproj.GenerateResource.cache
+E:\Project\Task 2\Task2_A3\Task2_A3\obj\Debug\SymbologyandAttributeTable.csproj.CoreCompileInputs.cache
+E:\Project\Task 2\Task2_A3\Task2_A3\obj\Debug\SymbologyandAttributeTable.csproj.CopyComplete
+E:\Project\Task 2\Task2_A3\Task2_A3\obj\Debug\Task2_A3.exe
+E:\Project\Task 2\Task2_A3\Task2_A3\obj\Debug\Task2_A3.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\Task2_A3.exe
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\Task2_A3.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Controls.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Data.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Data.Forms.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Extensions.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Modeling.Forms.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Projections.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Projections.Forms.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Serialization.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Symbology.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Symbology.Forms.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Topology.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Controls.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Data.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Data.Forms.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Extensions.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Modeling.Forms.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Projections.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Projections.Forms.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Serialization.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Symbology.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Symbology.Forms.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\bin\Debug\DotSpatial.Topology.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\obj\Debug\SymbologyandAttributeTable.csproj.AssemblyReference.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\obj\Debug\Task2_A3.Form1.resources
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\obj\Debug\Task2_A3.Properties.Resources.resources
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\obj\Debug\SymbologyandAttributeTable.csproj.GenerateResource.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\obj\Debug\SymbologyandAttributeTable.csproj.CoreCompileInputs.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\obj\Debug\SymbologyandAttributeTable.csproj.CopyComplete
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\obj\Debug\Task2_A3.exe
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\task2\Task2_A3\obj\Debug\Task2_A3.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\Task2_A3.exe
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\Task2_A3.pdb
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Controls.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Data.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Data.Forms.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Extensions.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Modeling.Forms.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Projections.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Projections.Forms.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Serialization.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Symbology.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Symbology.Forms.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Topology.dll
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Controls.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Data.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Data.Forms.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Extensions.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Modeling.Forms.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Projections.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Projections.Forms.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Serialization.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Symbology.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Symbology.Forms.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\bin\Debug\DotSpatial.Topology.xml
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\obj\Debug\SymbologyandAttributeTable.csproj.AssemblyReference.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\obj\Debug\Task2_A3.Form1.resources
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\obj\Debug\Task2_A3.Properties.Resources.resources
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\obj\Debug\SymbologyandAttributeTable.csproj.GenerateResource.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\obj\Debug\SymbologyandAttributeTable.csproj.CoreCompileInputs.cache
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\obj\Debug\SymbologyandAttributeTable.csproj.CopyComplete
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\obj\Debug\Task2_A3.exe
+D:\01. UGM_SIG\SEMESTER 2\01. PRAKTIKUM PEMROGRAMAN GEOSPASIAL DESKTOP\Acara 3\project\Task 2\Task2_A3\Task2_A3\obj\Debug\Task2_A3.pdb
