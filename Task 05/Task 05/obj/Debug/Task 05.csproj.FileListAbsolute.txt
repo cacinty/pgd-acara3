@@ -1,0 +1,96 @@
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\Task 05.exe
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\Task 05.pdb
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Controls.dll
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Data.dll
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Data.Forms.dll
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Extensions.dll
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Modeling.Forms.dll
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Projections.dll
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Projections.Forms.dll
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Serialization.dll
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Symbology.dll
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Symbology.Forms.dll
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Topology.dll
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Controls.xml
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Data.xml
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Data.Forms.xml
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Extensions.xml
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Modeling.Forms.xml
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Projections.xml
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Projections.Forms.xml
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Serialization.xml
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Symbology.xml
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Symbology.Forms.xml
+D:\semester 2\PGD\acara 3\Task 05\Task 05\bin\Debug\DotSpatial.Topology.xml
+D:\semester 2\PGD\acara 3\Task 05\Task 05\obj\Debug\Task 05.csproj.AssemblyReference.cache
+D:\semester 2\PGD\acara 3\Task 05\Task 05\obj\Debug\Task_05.Form1.resources
+D:\semester 2\PGD\acara 3\Task 05\Task 05\obj\Debug\Task_05.Properties.Resources.resources
+D:\semester 2\PGD\acara 3\Task 05\Task 05\obj\Debug\Task 05.csproj.GenerateResource.cache
+D:\semester 2\PGD\acara 3\Task 05\Task 05\obj\Debug\Task 05.csproj.CoreCompileInputs.cache
+D:\semester 2\PGD\acara 3\Task 05\Task 05\obj\Debug\Task 05.csproj.CopyComplete
+D:\semester 2\PGD\acara 3\Task 05\Task 05\obj\Debug\Task 05.exe
+D:\semester 2\PGD\acara 3\Task 05\Task 05\obj\Debug\Task 05.pdb
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\Task 05.exe
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\Task 05.pdb
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Controls.dll
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Data.dll
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Data.Forms.dll
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Extensions.dll
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Modeling.Forms.dll
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Projections.dll
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Projections.Forms.dll
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Serialization.dll
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Symbology.dll
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Symbology.Forms.dll
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Topology.dll
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Controls.xml
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Data.xml
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Data.Forms.xml
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Extensions.xml
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Modeling.Forms.xml
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Projections.xml
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Projections.Forms.xml
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Serialization.xml
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Symbology.xml
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Symbology.Forms.xml
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\bin\Debug\DotSpatial.Topology.xml
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\obj\Debug\Task 05.csproj.AssemblyReference.cache
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\obj\Debug\Task_05.Form1.resources
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\obj\Debug\Task_05.Properties.Resources.resources
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\obj\Debug\Task 05.csproj.GenerateResource.cache
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\obj\Debug\Task 05.csproj.CoreCompileInputs.cache
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\obj\Debug\Task 05.csproj.CopyComplete
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\obj\Debug\Task 05.exe
+D:\UGM 365\OneDrive - UGM 365\SIG'22\Semester 2\Praktikum\Pemrograman Geospasial Desktop\Acara 3\Project\Task 05\Task 05\obj\Debug\Task 05.pdb
+E:\Project\caca\Task 05\Task 05\bin\Debug\Task 05.exe
+E:\Project\caca\Task 05\Task 05\bin\Debug\Task 05.pdb
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Controls.dll
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Data.dll
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Data.Forms.dll
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Extensions.dll
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Modeling.Forms.dll
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Projections.dll
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Projections.Forms.dll
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Serialization.dll
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Symbology.dll
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Symbology.Forms.dll
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Topology.dll
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Controls.xml
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Data.xml
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Data.Forms.xml
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Extensions.xml
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Modeling.Forms.xml
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Projections.xml
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Projections.Forms.xml
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Serialization.xml
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Symbology.xml
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Symbology.Forms.xml
+E:\Project\caca\Task 05\Task 05\bin\Debug\DotSpatial.Topology.xml
+E:\Project\caca\Task 05\Task 05\obj\Debug\Task 05.csproj.AssemblyReference.cache
+E:\Project\caca\Task 05\Task 05\obj\Debug\Task_05.Form1.resources
+E:\Project\caca\Task 05\Task 05\obj\Debug\Task_05.Properties.Resources.resources
+E:\Project\caca\Task 05\Task 05\obj\Debug\Task 05.csproj.GenerateResource.cache
+E:\Project\caca\Task 05\Task 05\obj\Debug\Task 05.csproj.CoreCompileInputs.cache
+E:\Project\caca\Task 05\Task 05\obj\Debug\Task 05.csproj.CopyComplete
+E:\Project\caca\Task 05\Task 05\obj\Debug\Task 05.exe
+E:\Project\caca\Task 05\Task 05\obj\Debug\Task 05.pdb
